@@ -1,2 +1,2 @@
 # Resumeparsing
-FYP Resume Parsing (AbehaShahab EP191010010) (Fazeena Sehar EP19101017)
+FYP Resume Parsing (AbehaShahab EP19101010) (Fazeena Sehar EP19101017)
